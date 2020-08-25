@@ -11,19 +11,20 @@
 // const sextoParrafo = document.getElementById("bordej-rojo")
 // console.log(sextoParrafo)
 
+
+
 // const primerElementoClaseVerde = document.querySelector(".verde")
-// console.log(primerElementoClaseVerde.classList)
-// primerElementoClaseVerde.classList.remove("verde")
+// console.log(primerElementoClaseVerde.classList.remove("verde"))
 
 
-// const primerElementoClaseVerde = document.querySelector(".rojo")
-// console.log(primerElementoClaseVerde.classList)
-// primerElementoClaseVerde.classList.add("rosa")
+const segundoElementoClaseRojo = document.querySelector(".rojo")
+console.log(segundoElementoClaseRojo.classList.add("rosa"))
 
-// const primerElementoClaseVerde = document.querySelector(".rosa")
-// console.log(primerElementoClaseVerde.classList)
-// primerElementoClaseVerde.classList.toggle("rosa")
 
-const primerElementoClaseVerde = document.querySelector(".amarillo")
-console.log(primerElementoClaseVerde.classList.contains("rojo"))
-primerElementoClaseVerde.classList.toggle("rojo")
+// const tercerElementoClaseRosa = document.querySelector(".rosa")
+// console.log(tercerElementoClaseRosa.classList.toggle("rosa"))
+
+
+// const cuartoElementoClaseAmarillo = document.querySelector(".amarillo")
+// console.log(cuartoElementoClaseAmarillo.classList.contains("rojo"))
+// cuartoElementoClaseAmarillo.classList.toggle("rojo")
